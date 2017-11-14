@@ -6,7 +6,7 @@
 #define WIFI_SSID "xxxxxx"
 #define WIFI_PASSWORD "pppppp"
 
-#define LINE_TOKEN "z2sGRPnz6X3JdYcyraXCBio4s2Zs9EtNZkosSDzm"
+#define LINE_TOKEN "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
 #define SW1 D1
 #define SW2 D2
 #define SW3 D3
