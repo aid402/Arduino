@@ -3,8 +3,8 @@
 #include <time.h>
 #include <Scheduler.h>
 
-#define WIFI_SSID "Niceit1"
-#define WIFI_PASSWORD "032953"
+#define WIFI_SSID "xxxxxx"
+#define WIFI_PASSWORD "pppppp"
 
 #define LINE_TOKEN "z2sGRPnz6X3JdYcyraXCBio4s2Zs9EtNZkosSDzm"
 #define SW1 D1
